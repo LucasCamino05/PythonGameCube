@@ -1,4 +1,3 @@
-from cmd import PROMPT
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 
